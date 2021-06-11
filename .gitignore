@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Diego Elio Pettenò
+#
+# SPDX-License-Identifier: 0BSD
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
